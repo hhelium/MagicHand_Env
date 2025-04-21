@@ -1,0 +1,93 @@
+Object,A,B,C,Shape,Roll,Pitch,Yaw
+remote,15,6,2.5,-1,0.5,0,1
+cosmetic box,13.5,8.75,3.6,-0.5,0.5,0,1
+oil bottle,15,4.9,4.9,1,0.5,0,1
+flashlight,18,3.6,3.6,1,0.5,0,1
+telephone,15.6,5.525,3.575,-1,0.5,0,1
+medium part,8,8,3.5,-0.5,0.5,0,1
+rectangular block,15.75,3,2.4,1,0.5,0,1
+aerosol can,15.4,4.2,4.2,1,0.5,0,1
+,,,,,,,
+,,,,,,,
+remote,15,6,2.5,-1,0,0,0
+cosmetic box,15,12.5,4,-0.5,0,0,0
+oil bottle,10,3.5,3.5,1,0,0,0
+flashlight,18,3,3,1,0,0,0
+telephone,12,4.25,2.75,-1,0,0,0
+medium part,8,8,3.5,-0.5,0,0,0
+rectangular block,10.5,2.5,2,1,0,0,0
+aerosol can,22,6,6,1,0,0,0
+,,,,,,,
+,,,,,,,
+ruler,15,2.25,0.25,-1,0,0,0.5
+spray bottle,15,6,3.5,-1,0,0,0
+remote,15,6,2.5,-1,0,0,0
+drawer,15,8,1.5,-1,0,0,0
+sponge,10,6,2.5,-1,0,0,0
+ruler,15,2.25,0.25,-1,0,0,0
+cards,8,5,0.15,-1,0,0,0
+soap,8,5,2.5,-1,0,0,0
+tissue holder,11,4,2,-1,0,0,0
+duster,15,2.5,1.5,-1,0,0,0
+command strip package,13.5,9,0.3,-1,0,0,0
+cassette,8.5,5,1,-1,0,0,0
+wrench,15,2,0.75,-1,0,0,0
+pliers,10.5,5.5,0.75,-1,0,0,0
+calipers,15,2.5,0.7,-1,0,0,0
+saw,10,4,2.5,-1,0,0,0
+telephone,12,4.25,2.75,-1,0,0,0
+thin parallel,15,3.5,0.4,-1,0,0,0
+protractor,9,5.5,0.2,-1,0,0,0
+plexiglas rectangle,15,4.5,1,-1,0,0,0
+rug,15,15,1,-0.5,0,0,0
+chair,15,15,2,-0.5,0,0,0
+paper,15,15,0.2,-0.5,0,0,0
+trash can,15,15,1,-0.5,0,0,0
+cabinet,15,15,1.75,-0.5,0,0,0
+bowl,12.5,12.5,1,-0.5,0,0,0
+cosmetic box,15,12.5,4,-0.5,0,0,0
+tape roll,6,5,2,-0.5,0,0,0
+food container lid,15,15,0.75,-0.5,0,0,0
+sandpaper,8,5.5,0.15,-0.5,0,0,0
+medium part,8,8,3.5,-0.5,0,0,0
+disk,4.5,4.5,0.6,-0.5,0,0,0
+plastic shield,15,15,0.75,-0.5,0,0,0
+shield,15,15,0.75,-0.5,0,0,0
+metal slab,15,15,1.5,-0.5,0,0,0
+wiper handle,15,2,2,1,0,0,0
+mop,15,3.5,3.5,1,0,0,0
+aerosol can,15,6,6,1,0,0,0
+toilet brush,15,1.5,1.5,1,0,0,0
+pen,14.5,0.9,0.9,1,0,0,0
+bottle,15,8,6,1,0,0,0
+power cord,15,0.9,0.9,1,0,0,0
+laundry detergent bottle,12.5,6.5,6.5,1,0,0,0
+cup,15,7,7,1,0,0,0
+toothbrush holder,9,4,3,1,0,0,0
+sponge holder,15,8,6,1,0,0,0
+dish washing brush,15,1.5,1.5,1,0,0,0
+flashlight,15,2,2,1,0,0,0
+eating utensil,15,1,0.75,1,0,0,0
+rod-like handle on machine,15,1.25,1.25,1,0,0,0
+rod,15,1.25,1.25,1,0,0,0
+tool with t-shaped handle,9,1,1,1,0,0,0
+small plastic squeeze bottle,12.5,4,4,1,0,0,0
+marker,14,1,1,1,0,0,0
+tube,15,1,1,1,0,0,0
+drill bit,6.5,0.75,0.75,1,0,0,0
+handle,12.5,2.25,2.25,1,0,0,0
+micrometer,11.5,1.75,1.75,1,0,0,0
+rod-like handle,15,1.25,1.25,1,0,0,0
+writing utensil,14.5,1,1,1,0,0,0
+screwdriver,15,3.5,3.5,1,0,0,0
+thin plastic tube,3,0.75,0.75,1,0,0,0
+mug,10,2,2,1,0,0,0
+thin rod,11.5,0.65,0.65,1,0,0,0
+oil bottle,10,3.5,3.5,1,0,0,0
+end mill,11.5,0.75,0.75,1,0,0,0
+brush,10,0.35,0.35,1,0,0,0
+tweezer,15,0.65,0.65,1,0,0,0
+hex wrench,10,0.65,0.65,1,0,0,0
+tap with t-shaped handle,15,2,2,1,0,0,0
+machine handle,6.5,2.5,2.5,1,0,0,0
+rectangular block,10.5,2.5,2,1,0,0,0

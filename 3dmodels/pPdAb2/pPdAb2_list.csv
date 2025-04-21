@@ -1,0 +1,78 @@
+Object,A,B,C,Shape,Roll,Pitch,Yaw
+plexiglas rectangle,15,4.5,2,-1,0.5,0,1
+placemat,12,12,2,-0.5,0.5,0,1
+small food,4,4,4,0.5,0.5,0,1
+screw,7.5,3.5,3.5,1,0.5,0,1
+cell phone,14,7.7,1.4,-1,0.5,0,1
+coaster,10.8,10.8,1.8,-0.5,0.5,0,1
+small ball,5.2,5.2,5.2,0.5,0.5,0,1
+screwdriver,18,3.5,3.5,1,0.5,0,1
+,,,,,,,
+plexiglas rectangle,15,4.5,1,-1,0,0,0
+placemat,15,15,0.4,-0.5,0,0,0
+small food,2,2,2,0.5,0,0,0
+screw,1.5,1,1,1,0,0,0
+cell phone,10,5.5,1,-1,0,0,0
+coaster,9,9,0.6,-0.5,0,0,0
+small ball,3.25,3.25,3.25,0.5,0,0,0
+screwdriver,18,3.5,3.5,1,0,0,0
+,,,,,,,
+sponge,10,6,2.5,-1,0,0,0
+ruler,15,2.25,0.25,-1,0,0,0
+cards,8,5,0.15,-1,0,0,0
+money,4.5,2,0.75,-1,0,0,0
+head band,10,0.7,0.35,-1,0,0,0
+razor,11,1.5,1,-1,0,0,0
+safety pin,4,1,0.15,-1,0,0,0
+cell phone,10,5.5,1,-1,0,0,0
+shower brush,9,4,2.5,-1,0,0,0
+wrench,15,2,0.75,-1,0,0,0
+plexiglas rectangle,15,4.5,1,-1,0,0,0
+aluminum bar,11.5,3,2,-1,0,0,0
+paper,15,15,0.2,-0.5,0,0,0
+coin,2,2,0.15,-0.5,0,0,0
+placemat,15,15,0.4,-0.5,0,0,0
+food,2,2,0.75,-0.5,0,0,0
+bowl,12.5,12.5,1,-0.5,0,0,0
+soap dish,10,7.5,2.5,-0.5,0,0,0
+coaster,9,9,0.6,-0.5,0,0,0
+food container lid,15,15,0.75,-0.5,0,0,0
+picture,15,11.5,0.3,-0.5,0,0,0
+sandpaper,8,5.5,0.15,-0.5,0,0,0
+plastic shield,15,15,0.75,-0.5,0,0,0
+shield,15,15,0.75,-0.5,,,
+small food,2,2,2,0.5,0,0,0
+cord,15,0.75,0.75,1,0,0,0
+toilet brush,15,1.5,1.5,1,0,0,0
+pen,14.5,0.9,0.9,1,0,0,0
+paper towel roll,15,9,9,1,0,0,0
+small bottle,11,3,3,1,0,0,0
+toothbrush,15,1,1,1,0,0,0
+hanger,15,0.2,0.2,1,0,0,0
+power cord,15,0.9,0.9,1,0,0,0
+cup,15,7,7,1,0,0,0
+small knob,4.5,2.5,2.5,1,0,0,0
+dish washing brush,15,1.5,1.5,1,0,0,0
+flashlight,15,2,2,1,0,0,0
+eating utensil,15,1,0.75,1,0,0,0
+coffee pot,12.5,2,1.5,1,0,0,0
+rod-like handle on machine,15,1.25,1.25,1,0,0,0
+rod,15,1.25,1.25,1,0,0,0
+tool with t-shaped handle,9,1,1,1,0,0,0
+cylindrical part on machine,12.5,5.5,5.5,1,0,0,0
+drawer handle,10,1,1,1,0,0,0
+drill bit,6.5,0.75,0.75,1,0,0,0
+micrometer,11.5,1.75,1.75,1,0,0,0
+rod-like handle,15,1.25,1.25,1,0,0,0
+screwdriver,15,3.5,3.5,1,0,0,0
+thin rod,11.5,0.65,0.65,1,0,0,0
+metal cylinder,7.5,4.5,4.5,1,0,0,0
+safety glasses,12.5,1,0.75,1,0,0,0
+end mill,11.5,0.75,0.75,1,0,0,0
+brush,10,0.35,0.35,1,0,0,0
+tweezer,15,0.65,0.65,1,0,0,0
+screw,1.5,0.75,0.75,1,0,0,0
+hex wrench,10,0.65,0.65,1,0,0,0
+tap with t-shaped handle,15,2,2,1,0,0,0
+drill part,8.5,1,1,1,0,0,0
+allen wrench,10,0.75,0.75,1,0,0,0

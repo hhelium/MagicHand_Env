@@ -1,0 +1,39 @@
+Object,A,B,C,Shape,Roll,Pitch,Yaw
+paper towel roll,10.5,3.6,3.6,1,0.5,0,1
+spray bottle,15,6,3.5,-1,0.5,0,1
+medium part,8,8,3.5,-0.5,0.5,0,1
+remote,15,6,2.5,-1,0.5,0,1
+base of handle,19.5,3.25,3.25,1,0.5,0,1
+deoderant,12,6,2.5,-1,0.5,0,1
+round handle,10,10,2,-0.5,0.5,0,1
+jewelry box,15,5,3,-1,0.5,0,1
+plug,10,1.5,1,-1,0.5,0,1
+,,,,,,,
+,,,,,,,
+paper towel roll,15,9,9,1,0,0,0
+spray bottle,15,6,3.5,-1,0.5,0,1
+medium part,8,8,3.5,-0.5,0,0,0
+remote,15,6,2.5,-1,0,0,0
+base of handle,15,2.5,2.5,1,0,0,0
+deoderant,12,6,2.5,-1,0,0.5,0.5
+round handle,10,10,2,-0.5,0,0,0
+jewelry box,15,5,3,-1,0,0,0
+plug,10,1.5,1,-1,0,0,0
+,,,,,,,
+,,,,,,,
+deoderant,12,6,2.5,-1,0,0.5,0.5
+spray bottle,15,6,3.5,-1,0.5,0,1
+vacuum,15,4.5,4.5,1,0,0,0
+remote,15,6,2.5,-1,0,0,0
+paper towel roll,15,9,9,1,0,0,0
+jewelry box,15,5,3,-1,0,0,0
+laundry detergent bottle,12.5,6.5,6.5,1,0,0,0
+cup,15,7,7,1,0,0,0
+plug,10,1.5,1,-1,0,0,0
+small knob,4.5,2.5,2.5,1,0,0,0
+small plastic squeeze bottle,12.5,4,4,1,0,0,0
+cylindrical part on machine,12.5,5.5,5.5,1,0,0,0
+medium part,8,8,3.5,-0.5,0,0,0
+base of handle,12.5,2.5,2.5,1,0,0,0
+drill,12.5,5.5,5.5,1,0,0,0
+round handle,10,10,2,-0.5,0,0,0
