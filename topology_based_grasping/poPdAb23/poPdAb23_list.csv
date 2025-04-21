@@ -1,0 +1,41 @@
+Object,A,B,C,Shape,Roll,Pitch,Yaw,
+spray bottle,15,6,3.5,-1,0.5,0,1,poPdAb23
+small knob,8.1,4.2,4.2,1,0.5,0,1,poPdAb23
+aerosol can cap,5.1,5.1,5.1,0.5,0.5,0,1,poPdAb23
+tape measure,8,8,3.2,-0.5,0.5,0,1,poPdAb23
+medium part,8,8,3.5,-0.5,0.5,0,1,poPdAb23
+deoderant,12,6,2.5,-1,0.5,0,1,poPdAb23
+base of handle,19.5,3.25,3.25,1,0.5,0,1,poPdAb23
+door knob,5.4,5.4,5.4,0.5,0.5,0,1,poPdAb23
+,,,,,,,,
+spray bottle,15,6,3.5,-1,0.5,1,0,
+small knob,4.5,2.5,2.5,1,0,0,0,
+aerosol can cap,6,6,6,0.5,0,0,0,
+tape measure,5,5,2,-0.5,0,0,0,
+medium part,8,8,3.5,-0.5,0.5,0,1,
+deoderant,12,6,2.5,-1,0,0,0,
+base of handle,15,2.5,2.5,1,0,0,0,
+door knob,6,6,6,0.5,0,0,0,
+,,,,,,,,
+,,,,,,,,
+rod,15,1.25,1.25,1,0,0,0.5,
+spray bottle,15,6,3.5,-1,0.5,1,0,
+aerosol can,15,6,6,1,0,0,0,
+sponge,10,6,2.5,-1,0,0,0,
+small toy,7,7,3.5,-0.5,0,0,0,
+trash can,15,15,1,-0.5,0,0,0,
+aerosol can cap,6,6,5,0.5,0,0,0,
+deoderant,12,6,2.5,-1,0,0,0,
+door knob,6,6,5.5,0.5,0,0,0,
+small knob,4.5,2.5,2.5,1,0,0,0,
+vacuum cleaner,15,4.5,4.5,1,0,0,0,
+electrical plug,5,2,1.5,1,0,0,0,
+rod,15,1.25,1.25,1,0,0,0,
+small plastic squeeze bottle,12.5,4,4,1,0,0,0,
+medium knob,3.5,3.5,3.5,0.5,0,0,0,
+small drum-like part,10.5,8.5,8.5,0.5,0,0,0,
+rod-like handle,15,1.25,1.25,1,0,0,0,
+knob,3,3,3,0.5,0,0,0,
+base of handle,12.5,2.5,2.5,1,0,0,0,
+large knob,4,2.5,2.5,1,0,0,0,
+tape measure,5,5,2,-0.5,0,0,0,

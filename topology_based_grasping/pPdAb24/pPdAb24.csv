@@ -1,0 +1,72 @@
+Object,A,B,C,Shape,Roll,Pitch,Yaw,Grasp_group
+spray bottle,15,6,3.5,-1,,,,Precision pad abd 2-4
+wiper handle,15,2,2,1,,,,Precision pad abd 2-4
+mop,15,3.5,3.5,1,,,,Precision pad abd 2-4
+rug,15,15,1,-0.5,,,,Precision pad abd 2-4
+aerosol can,15,6,6,1,,,,Precision pad abd 2-4
+toilet brush,15,1.5,1.5,1,,,,Precision pad abd 2-4
+remote,15,6,2.5,-1,,,,Precision pad abd 2-4
+chair,15,15,2,-0.5,,,,Precision pad abd 2-4
+drawer,15,8,1.5,-1,,,,Precision pad abd 2-4
+sponge,10,6,2.5,-1,,,,Precision pad abd 2-4
+pen,14.5,0.9,0.9,1,,,,Precision pad abd 2-4
+paper,15,15,0.2,-0.5,,,,Precision pad abd 2-4
+ruler,15,2.25,0.25,-1,,,,Precision pad abd 2-4
+cards,8,5,0.15,-1,,,,Precision pad abd 2-4
+bottle,15,8,6,1,,,,Precision pad abd 2-4
+trash can,15,15,1,-0.5,,,,Precision pad abd 2-4
+power cord,15,0.9,0.9,1,,,,Precision pad abd 2-4
+laundry detergent bottle,12.5,6.5,6.5,1,,,,Precision pad abd 2-4
+cabinet,15,15,1.75,-0.5,,,,Precision pad abd 2-4
+cup,15,7,7,1,,,,Precision pad abd 2-4
+bowl,12.5,12.5,1,-0.5,,,,Precision pad abd 2-4
+toothbrush holder,9,4,3,1,,,,Precision pad abd 2-4
+soap,8,5,2.5,-1,,,,Precision pad abd 2-4
+tissue holder,11,4,2,-1,,,,Precision pad abd 2-4
+cosmetic box,15,12.5,4,-0.5,,,,Precision pad abd 2-4
+duster,15,2.5,1.5,-1,,,,Precision pad abd 2-4
+sponge holder,15,8,6,1,,,,Precision pad abd 2-4
+dish washing brush,15,1.5,1.5,1,,,,Precision pad abd 2-4
+command strip package,13.5,9,0.3,-1,,,,Precision pad abd 2-4
+tape roll,6,5,2,-0.5,,,,Precision pad abd 2-4
+flashlight,15,2,2,1,,,,Precision pad abd 2-4
+cassette,8.5,5,1,-1,,,,Precision pad abd 2-4
+eating utensil,15,1,0.75,1,,,,Precision pad abd 2-4
+food container lid,15,15,0.75,-0.5,,,,Precision pad abd 2-4
+rod-like handle on machine,15,1.25,1.25,1,,,,Precision pad abd 2-4
+wrench,15,2,0.75,-1,,,,Precision pad abd 2-4
+rod,15,1.25,1.25,1,,,,Precision pad abd 2-4
+tool with t-shaped handle,9,1,1,1,,,,Precision pad abd 2-4
+pliers,10.5,5.5,0.75,-1,,,,Precision pad abd 2-4
+calipers,15,2.5,0.7,-1,,,,Precision pad abd 2-4
+small plastic squeeze bottle,12.5,4,4,1,,,,Precision pad abd 2-4
+sandpaper,8,5.5,0.15,-0.5,,,,Precision pad abd 2-4
+saw,10,4,2.5,-1,,,,Precision pad abd 2-4
+marker,14,1,1,1,,,,Precision pad abd 2-4
+medium part,8,8,3.5,-0.5,,,,Precision pad abd 2-4
+telephone,12,4.25,2.75,-1,,,,Precision pad abd 2-4
+tube,15,1,1,1,,,,Precision pad abd 2-4
+disk,4.5,4.5,0.6,-0.5,,,,Precision pad abd 2-4
+drill bit,6.5,0.75,0.75,1,,,,Precision pad abd 2-4
+handle,12.5,2.25,2.25,1,,,,Precision pad abd 2-4
+micrometer,11.5,1.75,1.75,1,,,,Precision pad abd 2-4
+rod-like handle,15,1.25,1.25,1,,,,Precision pad abd 2-4
+writing utensil,14.5,1,1,1,,,,Precision pad abd 2-4
+screwdriver,15,3.5,3.5,1,,,,Precision pad abd 2-4
+thin plastic tube,3,0.75,0.75,1,,,,Precision pad abd 2-4
+mug,10,2,2,1,,,,Precision pad abd 2-4
+thin rod,11.5,0.65,0.65,1,,,,Precision pad abd 2-4
+oil bottle,10,3.5,3.5,1,,,,Precision pad abd 2-4
+plastic shield,15,15,0.75,-0.5,,,,Precision pad abd 2-4
+thin parallel,15,3.5,0.4,-1,,,,Precision pad abd 2-4
+end mill,11.5,0.75,0.75,1,,,,Precision pad abd 2-4
+brush,10,0.35,0.35,1,,,,Precision pad abd 2-4
+tweezer,15,0.65,0.65,1,,,,Precision pad abd 2-4
+hex wrench,10,0.65,0.65,1,,,,Precision pad abd 2-4
+tap with t-shaped handle,15,2,2,1,,,,Precision pad abd 2-4
+protractor,9,5.5,0.2,-1,,,,Precision pad abd 2-4
+plexiglas rectangle,15,4.5,1,-1,,,,Precision pad abd 2-4
+machine handle,6.5,2.5,2.5,1,,,,Precision pad abd 2-4
+shield,15,15,0.75,-0.5,,,,Precision pad abd 2-4
+metal slab,15,15,1.5,-0.5,,,,Precision pad abd 2-4
+rectangular block,10.5,2.5,2,1,,,,Precision pad abd 2-4

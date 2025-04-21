@@ -1,0 +1,113 @@
+Object,A,B,C,Shape,Roll,Pitch,Yaw,Grasp_group
+spray bottle,15,6,3.5,-1,,,,Power palm abd 2-5
+wiper handle,15,2,2,1,,,,Power palm abd 2-5
+vacuum,15,4.5,4.5,1,,,,Power palm abd 2-5
+vacuum wires,7.5,0.5,0.5,1,,,,Power palm abd 2-5
+vacuum tube,15,4.5,4.5,1,,,,Power palm abd 2-5
+mop,15,3.5,3.5,1,,,,Power palm abd 2-5
+rug,15,15,1,-0.5,,,,Power palm abd 2-5
+cord,15,0.75,0.75,1,,,,Power palm abd 2-5
+aerosol can,15,6,6,1,,,,Power palm abd 2-5
+toilet brush,15,1.5,1.5,1,,,,Power palm abd 2-5
+remote,15,6,2.5,-1,,,,Power palm abd 2-5
+pillow,15,15,6.5,-0.5,,,,Power palm abd 2-5
+chair,15,15,2,-0.5,,,,Power palm abd 2-5
+sponge,10,6,2.5,-1,,,,Power palm abd 2-5
+pen,14.5,0.9,0.9,1,,,,Power palm abd 2-5
+pet bed,15,15,9,-0.5,,,,Power palm abd 2-5
+paper towel roll,15,9,9,1,,,,Power palm abd 2-5
+ruler,15,2.25,0.25,-1,,,,Power palm abd 2-5
+bottle,15,8,6,1,,,,Power palm abd 2-5
+glasses,10.5,3,0.75,-1,,,,Power palm abd 2-5
+trash can,15,15,1,-0.5,,,,Power palm abd 2-5
+belt,15,3.5,0.35,-1,,,,Power palm abd 2-5
+glass container,13.5,7.5,7.5,1,,,,Power palm abd 2-5
+small bottle,11,3,3,1,,,,Power palm abd 2-5
+toothbrush,15,1,1,1,,,,Power palm abd 2-5
+hanger,15,0.2,0.2,1,,,,Power palm abd 2-5
+glass jar,13.5,7.5,7.5,1,,,,Power palm abd 2-5
+paper cup,10,6.5,6.5,1,,,,Power palm abd 2-5
+toilet brushholder,15,9,6.5,1,,,,Power palm abd 2-5
+power cord,15,0.9,0.9,1,,,,Power palm abd 2-5
+iron,15,6.5,3.5,-1,,,,Power palm abd 2-5
+ironing board,15,3.5,3.5,1,,,,Power palm abd 2-5
+alarm clock,15,15,5,-0.5,,,,Power palm abd 2-5
+plastic squeeze bottle,12.5,5,3.5,1,,,,Power palm abd 2-5
+plastic cup,12.5,7,7,1,,,,Power palm abd 2-5
+cup,15,7,7,1,,,,Power palm abd 2-5
+bowl,12.5,12.5,1,-0.5,,,,Power palm abd 2-5
+end of hose,12.5,2.5,2.5,1,,,,Power palm abd 2-5
+soap dish,10,7.5,2.5,-0.5,,,,Power palm abd 2-5
+soap,8,5,2.5,-1,,,,Power palm abd 2-5
+scrubber,10,2,1.5,1,,,,Power palm abd 2-5
+shower head,14,3,3,1,,,,Power palm abd 2-5
+air freshener,10,4.5,4,1,,,,Power palm abd 2-5
+candle,15,9.5,9.5,1,,,,Power palm abd 2-5
+small knob,4.5,2.5,2.5,1,,,,Power palm abd 2-5
+vacuum cleaner,15,4.5,4.5,1,,,,Power palm abd 2-5
+cell phone,10,5.5,1,-1,,,,Power palm abd 2-5
+hose,15,2.25,2.25,1,,,,Power palm abd 2-5
+duster,15,2.5,1.5,-1,,,,Power palm abd 2-5
+toy car,15,4,4,1,,,,Power palm abd 2-5
+phone,9.5,5.25,1.75,-1,,,,Power palm abd 2-5
+dish washing brush,15,1.5,1.5,1,,,,Power palm abd 2-5
+tea kettle,12.5,3,2.5,1,,,,Power palm abd 2-5
+cooking spoon dish,12.5,2.5,1,-1,,,,Power palm abd 2-5
+dish washing soap bottle,15,10,4.5,-1,,,,Power palm abd 2-5
+large round plastic bottle,15,7.5,7.5,1,,,,Power palm abd 2-5
+measuring cup,9.5,2.5,1.5,-1,,,,Power palm abd 2-5
+stuffed animal,11.5,11.5,9,0.5,,,,Power palm abd 2-5
+furniture,15,15,15,0.5,,,,Power palm abd 2-5
+knife rack,15,11.5,8,0.5,,,,Power palm abd 2-5
+game,15,14.5,1.25,-0.5,,,,Power palm abd 2-5
+cleaning brush,15,1.5,1.5,1,,,,Power palm abd 2-5
+knob on rod-like handle,3,3,3,0.5,,,,Power palm abd 2-5
+rod-like handle on machine,15,1.25,1.25,1,,,,Power palm abd 2-5
+wrench,15,2,0.75,-1,,,,Power palm abd 2-5
+rod,15,1.25,1.25,1,,,,Power palm abd 2-5
+tool with t-shaped handle,9,1,1,1,,,,Power palm abd 2-5
+pliers,10.5,5.5,0.75,-1,,,,Power palm abd 2-5
+calipers,15,2.5,0.7,-1,,,,Power palm abd 2-5
+small plastic squeeze bottle,12.5,4,4,1,,,,Power palm abd 2-5
+cylindrical part on machine,12.5,5.5,5.5,1,,,,Power palm abd 2-5
+medium knob,3.5,3.5,3.5,0.5,,,,Power palm abd 2-5
+small drum-like part,10.5,8.5,8.5,0.5,,,,Power palm abd 2-5
+part on machine,15,9,9,1,,,,Power palm abd 2-5
+torch,15,9.5,9.5,1,,,,Power palm abd 2-5
+saw,10,4,2.5,-1,,,,Power palm abd 2-5
+metal can,15,10,10,1,,,,Power palm abd 2-5
+electric tool,15,6.5,6.5,1,,,,Power palm abd 2-5
+medium part,8,8,3.5,-0.5,,,,Power palm abd 2-5
+tube,15,1,1,1,,,,Power palm abd 2-5
+disk,4.5,4.5,0.6,-0.5,,,,Power palm abd 2-5
+drill bit,6.5,0.75,0.75,1,,,,Power palm abd 2-5
+handle,12.5,2.25,2.25,1,,,,Power palm abd 2-5
+chuck key,10,1,1,1,,,,Power palm abd 2-5
+chuck,10,1,1,1,,,,Power palm abd 2-5
+micrometer,11.5,1.75,1.75,1,,,,Power palm abd 2-5
+rod-like handle,15,1.25,1.25,1,,,,Power palm abd 2-5
+writing utensil,14.5,1,1,1,,,,Power palm abd 2-5
+screwdriver,15,3.5,3.5,1,,,,Power palm abd 2-5
+rod-like part,15,1,1,1,,,,Power palm abd 2-5
+hammer,15,2,2,1,,,,Power palm abd 2-5
+knob,3,3,3,0.5,,,,Power palm abd 2-5
+air hose,15,3.25,1.75,-1,,,,Power palm abd 2-5
+thin parallel,15,3.5,0.4,-1,,,,Power palm abd 2-5
+base of handle,12.5,2.5,2.5,1,,,,Power palm abd 2-5
+end mill,11.5,0.75,0.75,1,,,,Power palm abd 2-5
+large knob,4,2.5,2.5,1,,,,Power palm abd 2-5
+drill,12.5,5.5,5.5,1,,,,Power palm abd 2-5
+screw,1.5,0.75,0.75,1,,,,Power palm abd 2-5
+hex wrench,10,0.65,0.65,1,,,,Power palm abd 2-5
+mill part,12.5,5,5,1,,,,Power palm abd 2-5
+dremel,15,5.5,5.5,1,,,,Power palm abd 2-5
+rolling rack,15,8.5,2.5,-1,,,,Power palm abd 2-5
+left hand,8,8,8,0.5,,,,Power palm abd 2-5
+plexiglas rectangle,15,4.5,1,-1,,,,Power palm abd 2-5
+metal clamp,8.5,3,3,1,,,,Power palm abd 2-5
+clamp handle,15,1,1,1,,,,Power palm abd 2-5
+machine handle,6.5,2.5,2.5,1,,,,Power palm abd 2-5
+aluminum bar,11.5,3,2,-1,,,,Power palm abd 2-5
+endmill part,15,4.5,4.5,1,,,,Power palm abd 2-5
+power drill,13,5,4,1,,,,Power palm abd 2-5
+metal rectangle,12.5,8.5,1,-0.5,,,,Power palm abd 2-5
